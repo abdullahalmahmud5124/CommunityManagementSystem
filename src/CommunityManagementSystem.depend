@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1755366987 source:c:\users\iqbal\dropbox\abdullah\communitymanagementsystem\main.c
+	<stdio.h>
+	<string.h>
+
+1755366987 source:c:\users\iqbal\desktop\communitymanagementsystem\main.c
+	<stdio.h>
+	<string.h>
+
